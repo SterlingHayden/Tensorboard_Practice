@@ -1,4 +1,4 @@
 # Tensorboard_Practice
-First attemot with tensorboard <br />
+First attempt with tensorboard package <br />
 Dataset: cifar 10 dataset  <br />
 Code expanded from my Pytorch_CNN
